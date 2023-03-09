@@ -19,12 +19,7 @@
             <th>Update</th>
         </tr>
         <?php
-        /**
-         * Created by PhpStorm.
-         * User: emoblis
-         * Date: 6/11/19
-         * Time: 6:42 PM
-         */
+        
 
         //Connect to the Db
         $conn = mysqli_connect("localhost","root","","evening_system");
